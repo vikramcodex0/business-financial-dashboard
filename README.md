@@ -77,3 +77,9 @@ Vikram Prajapati
 GitHub: https://github.com/vikramcodex0
 
 ---
+## 📊 Dashboard Preview
+
+![Revenue](revenue_trend.png)
+![Profit](expense_profit.png)
+![Margin](profit_margin.png)
+![Regression](regression.png)
